@@ -1,0 +1,36 @@
+.header{
+    background-color: rgb(200, 255, 239);
+    color:rgb(49, 54, 95);
+    font-family: 'Amatic SC', cursive;
+}
+
+.header img{
+    width:100px;
+    height: 125px;
+}
+
+.testing_div{
+    font-family: 'Amatic SC', cursive;
+    background-color: powderblue;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 15px;
+    height: 600px;
+    width: 600px;
+    box-shadow: 5px 5px 18px steelblue;
+}
+
+.testing_div img{
+    height:300px;
+    width:250px;
+    border-radius: 15px;
+}
+
+.name_azure{
+    color:steelblue;
+}
+
+.name_model{
+    color:steelblue;
+}
+
